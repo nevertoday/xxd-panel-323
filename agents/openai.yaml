@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 323"
+  short_description: "白线徽记：上半保留原照，下半把主体收成触觉底上的白色单线徽记"
+  default_prompt: "Use $xxd-panel-323 to transform my photograph following the complete canonical source brief."
